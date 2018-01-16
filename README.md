@@ -1,6 +1,6 @@
 # Socialcops-microservice
 
-Microservice for patching document and getting thumbnail
+Microservice for patching document and getting image thumbnail
 
 ## Getting Started
 npm start -> to start the server
