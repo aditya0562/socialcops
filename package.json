@@ -1,6 +1,6 @@
 {
   "name": "socialcops",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Micro service for patch request and image thumbnail",
   "main": "server.js",
   "scripts": {
